@@ -9,3 +9,4 @@ class BlogPost(models.Model):
 
 # run manage.py makemigrations and manage.py migrate everytime
 # you change the models
+
